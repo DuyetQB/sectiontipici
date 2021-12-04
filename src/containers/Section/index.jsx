@@ -1,7 +1,7 @@
 import React from "react";
 import * as S from "./styled";
-import { Heading2, Text } from "components/common/Typo";
-import { Heading3 } from "components/common/Typo/styled";
+import { Heading2, Heading3, Text } from "components/common/Typo";
+
 export default function Section() {
   return (
     <>
